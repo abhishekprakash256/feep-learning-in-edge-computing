@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/abhishekprakash256/Deep_learning_in_edge_computing
+   git clone git@github.com:abhishekprakash256/deep-learning-in-edge-computing.git
    ```
 
 2. **Navigate to the Project Directory**
